@@ -6,7 +6,7 @@ O objetivo do trabalha é construir um algoritmo que permite jogar o famoso jogo
 Encontrado na Branch PPT do trabalho, o "Pedra, Papel e Tesoura" tradicional consiste em 3 opções de escolha tanto para os jogadores quanto para a máquina.
 
 ## Pedra, Papel, Tesoura, Lagarto e Spocky (PPTLS)
-Encontrado na Branch PPTLS do trabalho em uma pasta chamada PPT (Não fui capaz de alterar o nome da pasta), o "Pedra, Papel, Tesoura, Lagarto e Spocky" contém agora 5 opções de escolha tanto para os jogadores quanto para a máquina, porém a sua lógica mantém-se a mesma do tradicional "Pedra, Papel e Tesoura", fato esse que foi utilizado para conseguir executar esse algoritmo com uma quantidade relativamente pequena de linha de código.
+Encontrado na Branch PPTLS do trabalho em uma pasta chamada PPT (Não fui capaz de alterar o nome da pasta), o "Pedra, Papel, Tesoura, Lagarto e Spocky" contém agora 5 opções de escolha tanto para os jogadores quanto para a máquina, porém a sua lógica mantém-se a mesma do tradicional "Pedra, Papel e Tesoura", fato esse que foi utilizado para conseguir executar esse algoritmo com uma quantidade relativamente pequena de linhas de código.
 
 
 
